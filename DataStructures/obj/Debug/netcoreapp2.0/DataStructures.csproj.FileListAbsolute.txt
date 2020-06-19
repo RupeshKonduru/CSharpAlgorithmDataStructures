@@ -1,0 +1,9 @@
+C:\Users\Rupesh\Downloads\C-Sharp-Algorithms-master\C-Sharp-Algorithms-master\DataStructures\bin\Debug\netcoreapp2.0\DataStructures.deps.json
+C:\Users\Rupesh\Downloads\C-Sharp-Algorithms-master\C-Sharp-Algorithms-master\DataStructures\bin\Debug\netcoreapp2.0\DataStructures.dll
+C:\Users\Rupesh\Downloads\C-Sharp-Algorithms-master\C-Sharp-Algorithms-master\DataStructures\bin\Debug\netcoreapp2.0\DataStructures.pdb
+C:\Users\Rupesh\Downloads\C-Sharp-Algorithms-master\C-Sharp-Algorithms-master\DataStructures\obj\Debug\netcoreapp2.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Rupesh\Downloads\C-Sharp-Algorithms-master\C-Sharp-Algorithms-master\DataStructures\obj\Debug\netcoreapp2.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\Rupesh\Downloads\C-Sharp-Algorithms-master\C-Sharp-Algorithms-master\DataStructures\obj\Debug\netcoreapp2.0\DataStructures.AssemblyInfo.cs
+C:\Users\Rupesh\Downloads\C-Sharp-Algorithms-master\C-Sharp-Algorithms-master\DataStructures\obj\Debug\netcoreapp2.0\DataStructures.dll
+C:\Users\Rupesh\Downloads\C-Sharp-Algorithms-master\C-Sharp-Algorithms-master\DataStructures\obj\Debug\netcoreapp2.0\DataStructures.pdb
+C:\Users\Rupesh\Downloads\C-Sharp-Algorithms-master\C-Sharp-Algorithms-master\DataStructures\obj\Debug\netcoreapp2.0\DataStructures.csprojAssemblyReference.cache

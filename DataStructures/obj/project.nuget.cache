@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sqXGZBAZVgp3NPHKp+7lzHnVttjRE4DRcmN5bZa2cPKcUR7jIwGr2574sNI6BmuosjcY/LEo0JOoByxiiaYlmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rupesh\\Downloads\\C-Sharp-Algorithms-master\\CSharp Algorithm ClassLibrary\\CSharp Algorithm ClassLibrary\\DataStructures\\DataStructures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rupesh\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Rupesh\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Rupesh\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Rupesh\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Rupesh\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
