@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/DataStructures/bin
+/DataStructures/obj
+/Algorithms/bin
+/Algorithms/obj

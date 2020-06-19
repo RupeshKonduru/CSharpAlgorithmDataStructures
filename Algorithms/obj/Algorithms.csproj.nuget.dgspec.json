@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rupesh\\Downloads\\C-Sharp-Algorithms-master\\CSharp Algorithm ClassLibrary\\CSharp Algorithm ClassLibrary\\Algorithms\\Algorithms.csproj": {}
+    "C:\\Users\\Rupesh\\Source\\Repos\\CSharpAlgorithmDataStructures\\Algorithms\\Algorithms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rupesh\\Downloads\\C-Sharp-Algorithms-master\\CSharp Algorithm ClassLibrary\\CSharp Algorithm ClassLibrary\\Algorithms\\Algorithms.csproj": {
+    "C:\\Users\\Rupesh\\Source\\Repos\\CSharpAlgorithmDataStructures\\Algorithms\\Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rupesh\\Downloads\\C-Sharp-Algorithms-master\\CSharp Algorithm ClassLibrary\\CSharp Algorithm ClassLibrary\\Algorithms\\Algorithms.csproj",
+        "projectUniqueName": "C:\\Users\\Rupesh\\Source\\Repos\\CSharpAlgorithmDataStructures\\Algorithms\\Algorithms.csproj",
         "projectName": "Algorithms",
-        "projectPath": "C:\\Users\\Rupesh\\Downloads\\C-Sharp-Algorithms-master\\CSharp Algorithm ClassLibrary\\CSharp Algorithm ClassLibrary\\Algorithms\\Algorithms.csproj",
+        "projectPath": "C:\\Users\\Rupesh\\Source\\Repos\\CSharpAlgorithmDataStructures\\Algorithms\\Algorithms.csproj",
         "packagesPath": "C:\\Users\\Rupesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rupesh\\Downloads\\C-Sharp-Algorithms-master\\CSharp Algorithm ClassLibrary\\CSharp Algorithm ClassLibrary\\Algorithms\\obj\\",
+        "outputPath": "C:\\Users\\Rupesh\\Source\\Repos\\CSharpAlgorithmDataStructures\\Algorithms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.0": {
             "projectReferences": {
-              "C:\\Users\\Rupesh\\Downloads\\C-Sharp-Algorithms-master\\CSharp Algorithm ClassLibrary\\CSharp Algorithm ClassLibrary\\DataStructures\\DataStructures.csproj": {
-                "projectPath": "C:\\Users\\Rupesh\\Downloads\\C-Sharp-Algorithms-master\\CSharp Algorithm ClassLibrary\\CSharp Algorithm ClassLibrary\\DataStructures\\DataStructures.csproj"
+              "C:\\Users\\Rupesh\\Source\\Repos\\CSharpAlgorithmDataStructures\\DataStructures\\DataStructures.csproj": {
+                "projectPath": "C:\\Users\\Rupesh\\Source\\Repos\\CSharpAlgorithmDataStructures\\DataStructures\\DataStructures.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\Rupesh\\Downloads\\C-Sharp-Algorithms-master\\CSharp Algorithm ClassLibrary\\CSharp Algorithm ClassLibrary\\DataStructures\\DataStructures.csproj": {
+    "C:\\Users\\Rupesh\\Source\\Repos\\CSharpAlgorithmDataStructures\\DataStructures\\DataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rupesh\\Downloads\\C-Sharp-Algorithms-master\\CSharp Algorithm ClassLibrary\\CSharp Algorithm ClassLibrary\\DataStructures\\DataStructures.csproj",
+        "projectUniqueName": "C:\\Users\\Rupesh\\Source\\Repos\\CSharpAlgorithmDataStructures\\DataStructures\\DataStructures.csproj",
         "projectName": "DataStructures",
-        "projectPath": "C:\\Users\\Rupesh\\Downloads\\C-Sharp-Algorithms-master\\CSharp Algorithm ClassLibrary\\CSharp Algorithm ClassLibrary\\DataStructures\\DataStructures.csproj",
+        "projectPath": "C:\\Users\\Rupesh\\Source\\Repos\\CSharpAlgorithmDataStructures\\DataStructures\\DataStructures.csproj",
         "packagesPath": "C:\\Users\\Rupesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rupesh\\Downloads\\C-Sharp-Algorithms-master\\CSharp Algorithm ClassLibrary\\CSharp Algorithm ClassLibrary\\DataStructures\\obj\\",
+        "outputPath": "C:\\Users\\Rupesh\\Source\\Repos\\CSharpAlgorithmDataStructures\\DataStructures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
