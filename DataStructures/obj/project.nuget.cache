@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sqXGZBAZVgp3NPHKp+7lzHnVttjRE4DRcmN5bZa2cPKcUR7jIwGr2574sNI6BmuosjcY/LEo0JOoByxiiaYlmA==",
+  "dgSpecHash": "I7HlbGqdZmDTF3WX/DETtUA4KWSKPRcG6TpEW4oE1UGvG4uGq3nrkufb4GDhjxVImA6thHSecFVUy2T34xF7mQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rupesh\\Downloads\\C-Sharp-Algorithms-master\\CSharp Algorithm ClassLibrary\\CSharp Algorithm ClassLibrary\\DataStructures\\DataStructures.csproj",
+  "projectFilePath": "C:\\Users\\Rupesh\\Source\\Repos\\CSharpAlgorithmDataStructures\\DataStructures\\DataStructures.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rupesh\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
     "C:\\Users\\Rupesh\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",

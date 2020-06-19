@@ -1,0 +1,12 @@
+C:\Users\Rupesh\Source\Repos\CSharpAlgorithmDataStructures\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.deps.json
+C:\Users\Rupesh\Source\Repos\CSharpAlgorithmDataStructures\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.dll
+C:\Users\Rupesh\Source\Repos\CSharpAlgorithmDataStructures\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.pdb
+C:\Users\Rupesh\Source\Repos\CSharpAlgorithmDataStructures\Algorithms\bin\Debug\netcoreapp2.0\DataStructures.dll
+C:\Users\Rupesh\Source\Repos\CSharpAlgorithmDataStructures\Algorithms\bin\Debug\netcoreapp2.0\DataStructures.pdb
+C:\Users\Rupesh\Source\Repos\CSharpAlgorithmDataStructures\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csprojAssemblyReference.cache
+C:\Users\Rupesh\Source\Repos\CSharpAlgorithmDataStructures\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Rupesh\Source\Repos\CSharpAlgorithmDataStructures\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\Rupesh\Source\Repos\CSharpAlgorithmDataStructures\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfo.cs
+C:\Users\Rupesh\Source\Repos\CSharpAlgorithmDataStructures\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csproj.CopyComplete
+C:\Users\Rupesh\Source\Repos\CSharpAlgorithmDataStructures\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.dll
+C:\Users\Rupesh\Source\Repos\CSharpAlgorithmDataStructures\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.pdb
